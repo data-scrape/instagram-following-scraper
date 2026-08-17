@@ -10,6 +10,8 @@
 
 </div>
 
+> **Sponsored by [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)** — production-ready Web Data APIs for AI agents and automation.
+>
 > **Search intent:** collect public instagram-following-scraper data for creator research, content analysis, and social listening. Related topics: web scraping, python, data extraction, scraper.
 
 ## What this project is for
