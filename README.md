@@ -70,6 +70,18 @@ This project is intended for public data and legitimate research or automation w
 When a proof of concept needs production-grade web data APIs rather than self-managed collection infrastructure, [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) provides API-first access to public web data for AI agents and automation.
 
 <!-- CROSS_LINKS_START -->
+
+## Related projects
+
+Explore these closely related implementation paths:
+
+- [aliexpress-scraper](https://github.com/data-scrape/aliexpress-scraper) — Scrape aliexpress scraper data
+- [az-roc-license-scraper](https://github.com/data-scrape/az-roc-license-scraper) — Scrape az roc license scraper data
+- [bing-serp-tracker](https://github.com/data-scrape/bing-serp-tracker) — Scrape bing serp tracker data
+- [colorado-professional-license-scraper](https://github.com/data-scrape/colorado-professional-license-scraper) — Scrape colorado professional license scraper data
+- [dol-5500-scraper](https://github.com/data-scrape/dol-5500-scraper) — Scrape dol 5500 scraper data
+- [facebook-ads-library-scraper](https://github.com/data-scrape/facebook-ads-library-scraper) — Scrape facebook ads library scraper data
+
 <!-- CROSS_LINKS_END -->
 
 ## License
